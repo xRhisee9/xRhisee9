@@ -24,7 +24,7 @@ A passionate developer.
 
 ### 🌱 Currently
 
-- 📚 Learning: **Lua, And C++**
+- 📚 Learning: **PHP, Lua, And C++**
 - 💬 Ask me about: **Newbie 2D Artist**
 
 ---
