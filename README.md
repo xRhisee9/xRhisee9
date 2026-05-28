@@ -16,7 +16,7 @@ A passionate developer.
 
 <img src="https://streak-stats.demolab.com?user=xRhisee9&theme=dark&hide_border=true" alt="xRhisee9's GitHub Stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xRhisee9&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117)
+
 
 </div>
 
