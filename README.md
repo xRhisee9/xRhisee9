@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=200&section=header&text=xRhisee9&fontSize=50&fontColor=fff&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=200&section=header&text=xRhisee9&fontSize=50&fontColor=fff&animation=fadeIn)](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hey%20👋,%20I'm%20xRhisee9&textBg=false&animation=fadeIn)
 
 <div align="center">
 
