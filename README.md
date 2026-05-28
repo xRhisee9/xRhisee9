@@ -14,24 +14,6 @@ A passionate developer.
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=xRhisee9&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=200&section=header&text=xRhisee9&fontSize=50&fontColor=fff&animation=fadeIn)
-
-<div align="center">
-
-### Full Stack Developer | Pekanbaru,Indonesia
-
-A passionate developer.
-
-</div>
-
----
-
-### 📈 GitHub Stats
-
-<div align="center">
-
 <img src="https://streak-stats.demolab.com?user=xRhisee9&theme=dark&hide_border=true" alt="xRhisee9's GitHub Stats" />
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xRhisee9&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117)
